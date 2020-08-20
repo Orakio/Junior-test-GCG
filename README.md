@@ -1,1 +1,1 @@
-# Junior-test-GCG
+# Test app for android junior developer GCG
