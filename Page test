@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.rectest",
+    "sha256_cert_fingerprints":
+    ["5F:A7:FB:D2:D0:F8:69:93:49:57:D7:4C:68:5F:0F:E2:C5:1B:C4:4F:90:39:C7:06:5A:45:D5:C4:85:C4:6E:16"]
+  }
+}]
